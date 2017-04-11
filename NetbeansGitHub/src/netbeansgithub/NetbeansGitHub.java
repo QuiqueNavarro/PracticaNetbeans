@@ -15,7 +15,7 @@ public class NetbeansGitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("ME CAGO EN LA PUTA YA HOMBRE"); 
+        System.out.println("ME CAGO MAS AUN EN LA PUTA YA MEN"); 
     }
     
 }
